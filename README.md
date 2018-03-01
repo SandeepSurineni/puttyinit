@@ -1,0 +1,2 @@
+# puttyinit
+putty
